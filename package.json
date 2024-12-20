@@ -1,0 +1,35 @@
+{
+  "name": "@megaorm/driver",
+  "version": "1.0.0",
+  "description": "This package defines the core interfaces and types needed to create custom database drivers for MegaORM.",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "author": "Mohamed",
+  "license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/megaorm/megaorm-driver.git"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "megaorm",
+    "database",
+    "driver",
+    "custom driver",
+    "orm",
+    "mysql",
+    "postgresql",
+    "sqlite",
+    "database abstraction",
+    "node",
+    "connection management",
+    "database integration",
+    "nodejs",
+    "sql",
+    "orm driver"
+  ]
+}
